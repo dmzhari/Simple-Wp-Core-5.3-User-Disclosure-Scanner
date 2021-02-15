@@ -5,6 +5,7 @@
 ```
 $ apt update && apt upgrade
 $ apt install php
+$ apt install git
 $ git clone https://github.com/dmzhari/Simple-Wp-Core-5.3-User-Disclosure-Scanner.git
 $ cd Simple-Wp-Core-5.3-User-Disclosure-Scanner
 $ php wpuser-scanner.php
