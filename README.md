@@ -1,4 +1,4 @@
-# Wp-Core-5.3-User-Diclouser-Scanner
+# Wp-Core-5.3-User-Diclosure-Scanner
  - This Exploit Found In Wordpress Version < 5.3
 ## How To Install
  - Termux
